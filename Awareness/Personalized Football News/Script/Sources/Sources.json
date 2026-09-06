@@ -1,0 +1,26 @@
+[
+    {
+        "name": "sport.tv2.dk",
+        "type": "html",
+        "url": "https://sport.tv2.dk",
+        "football_score": 3
+    },
+    {
+        "name": "bold.dk",
+        "type": "html",
+        "url": "https://bold.dk",
+        "football_score": 2
+    },
+    {
+        "name": "da.wikipedia.org",
+        "type": "html",
+        "url": "https://da.wikipedia.org",
+        "football_score": 1
+    },
+    {
+        "name": "forzafootball.com",
+        "type": "unknown",
+        "url": "https://forzafootball.com",
+        "football_score": 1
+    }
+]

@@ -1,0 +1,739 @@
+{
+  "metadata" : {
+    "browser_name" : "Safari",
+    "browser_version" : "26.6",
+    "data_type" : "history",
+    "export_time_usec" : 1786645486058419,
+    "schema_version" : 1
+  },
+  "history" : [
+    {
+      "url" : "https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps",
+      "time_usec" : 1784115014966833,
+      "visit_count" : 3,
+      "title" : "Network recommendations for ChatGPT errors on web and apps | OpenAI Help Center"
+    },
+    {
+      "url" : "https://www.google.com/search?q=samos+rent+roadbike&client=safari&hs=ueaV&sca_esv=114ce2f88324942a&hl=da-dk&udm=1&lsack=8j5WarPqFOWJxc8Ps5j8mAs&sa=X&ved=2ahUKEwizq_WPqNKVAxXlRPEDHTMMH7MQxMEEegQIJBAB&biw=390&bih=645&dpr=3",
+      "time_usec" : 1784125947568658,
+      "visit_count" : 6,
+      "title" : "samos rent roadbike - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=organisation+for+f%C3%A6dre+der+er+i+klemme+i+sager+om+deling+sf+b%C3%B8rn+efter+skilsmisse&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784126038589345,
+      "visit_count" : 3,
+      "title" : "organisation for fædre der er i klemme i sager om deling sf børn efter skilsmisse - Google-søgning"
+    },
+    {
+      "url" : "https://www.foreningenfar.dk/",
+      "time_usec" : 1784126086931614,
+      "visit_count" : 1,
+      "title" : "Forside"
+    },
+    {
+      "url" : "https://www.google.com/search?q=organisation+for+f%C3%A6dre+der+er+i+klemme+i+sager+om+deling+sf+b%C3%B8rn+efter+skilsmisse&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari#lfId=ChxjMe",
+      "time_usec" : 1784128946164970,
+      "visit_count" : 5,
+      "title" : "organisation for fædre der er i klemme i sager om deling sf børn efter skilsmisse - Google-søgning"
+    },
+    {
+      "url" : "http://sms.supervin.dk/-u3d42n",
+      "time_usec" : 1784142009500300,
+      "visit_count" : 1,
+      "destination_url" : "https://www.supervin.dk/maison-di-rien-bourgogne-chardonnay-2024?utm_medium=sms&utm_source=inmobile&utm_campaign=maisonderien",
+      "destination_time_usec" : 1784142009500414
+    },
+    {
+      "url" : "https://www.supervin.dk/maison-di-rien-bourgogne-chardonnay-2024?utm_medium=sms&utm_source=inmobile&utm_campaign=maisonderien",
+      "time_usec" : 1784145214108505,
+      "visit_count" : 6,
+      "title" : "Køb Maison de Rien Bourgogne Chardonnay 2024 | Supervin"
+    },
+    {
+      "url" : "https://info.supervin.dk/e3t/Ctc/T6+113/chWz104/VWfn5w4yVzfDW2NdgSM2Xtk3PV7Wb0N5RyNywN861Kzv5nR3bW6N1X8z6lZ3nXN8k6g5kyQtdKW8tmcBf2D3_flW4sws7m43XvdnW4CS8lS6KcZf1W3Wf_zk1CGpjWW58vvhh3pntvYW41bqg264mkPLW1YhzZr5nFff5MpZVK7fnbY2W6w-S069bbFrvW5QnK9X2ZqmqDW4SRqnR3BFmwmW7_4G4L52SGKSW9fP13F6pJ9GsW8vf2r5296M6sW8BrpvW6YNKfCVny_tQ6dxG1XW7k1wjQ6S4fhPW8LsXLv7ynXVZW14yHKL3bGt2GW2xV1kq1Jz8nGW20ZX1Q20LxP2W2rPryr6f0yZsW6HLLfb1yt0bTW3xKthc45Vt7xW3cZ-XD5B9K7XW7vrWJr2bKLTDW7jMDjl7yRDD-W7G7qKs8jw19pW7T4Wr_3vXS6pN6MfznpHtcR1N7nLgjL6tHxPVGxypp1VY_wYW6w4dK74mX3PHW46SCSK2l43PVW1mTqwN7j5GxbW8MgWmy2fGZwtW2qYqRN6N5DgXf32jPfv04",
+      "time_usec" : 1784233024895705,
+      "visit_count" : 1,
+      "destination_url" : "https://info.supervin.dk/events/public/v1/encoded/track/tc/T6+113/chWz104/VWfn5w4yVzfDW2NdgSM2Xtk3PV7Wb0N5RyNywN861Kzv5nR3bW6N1X8z6lZ3nXN8k6g5kyQtdKW8tmcBf2D3_flW4sws7m43XvdnW4CS8lS6KcZf1W3Wf_zk1CGpjWW58vvhh3pntvYW41bqg264mkPLW1YhzZr5nFff5MpZVK7fnbY2W6w-S069bbFrvW5QnK9X2ZqmqDW4SRqnR3BFmwmW7_4G4L52SGKSW9fP13F6pJ9GsW8vf2r5296M6sW8BrpvW6YNKfCVny_tQ6dxG1XW7k1wjQ6S4fhPW8LsXLv7ynXVZW14yHKL3bGt2GW2xV1kq1Jz8nGW20ZX1Q20LxP2W2rPryr6f0yZsW6HLLfb1yt0bTW3xKthc45Vt7xW3cZ-XD5B9K7XW7vrWJr2bKLTDW7jMDjl7yRDD-W7G7qKs8jw19pW7T4Wr_3vXS6pN6MfznpHtcR1N7nLgjL6tHxPVGxypp1VY_wYW6w4dK74mX3PHW46SCSK2l43PVW1mTqwN7j5GxbW8MgWmy2fGZwtW2qYqRN6N5DgXf32jPfv04?_ud=9d265acc-24a2-44c7-9273-8b2403c22f82&_jss=1&_fl=14&_pl=5&_hc=4&_lg=da-DK&_plt=iPhone&_scr=390,844",
+      "destination_time_usec" : 1784233027107004
+    },
+    {
+      "url" : "https://info.supervin.dk/events/public/v1/encoded/track/tc/T6+113/chWz104/VWfn5w4yVzfDW2NdgSM2Xtk3PV7Wb0N5RyNywN861Kzv5nR3bW6N1X8z6lZ3nXN8k6g5kyQtdKW8tmcBf2D3_flW4sws7m43XvdnW4CS8lS6KcZf1W3Wf_zk1CGpjWW58vvhh3pntvYW41bqg264mkPLW1YhzZr5nFff5MpZVK7fnbY2W6w-S069bbFrvW5QnK9X2ZqmqDW4SRqnR3BFmwmW7_4G4L52SGKSW9fP13F6pJ9GsW8vf2r5296M6sW8BrpvW6YNKfCVny_tQ6dxG1XW7k1wjQ6S4fhPW8LsXLv7ynXVZW14yHKL3bGt2GW2xV1kq1Jz8nGW20ZX1Q20LxP2W2rPryr6f0yZsW6HLLfb1yt0bTW3xKthc45Vt7xW3cZ-XD5B9K7XW7vrWJr2bKLTDW7jMDjl7yRDD-W7G7qKs8jw19pW7T4Wr_3vXS6pN6MfznpHtcR1N7nLgjL6tHxPVGxypp1VY_wYW6w4dK74mX3PHW46SCSK2l43PVW1mTqwN7j5GxbW8MgWmy2fGZwtW2qYqRN6N5DgXf32jPfv04?_ud=9d265acc-24a2-44c7-9273-8b2403c22f82&_jss=1&_fl=14&_pl=5&_hc=4&_lg=da-DK&_plt=iPhone&_scr=390,844",
+      "time_usec" : 1784233027107004,
+      "visit_count" : 1,
+      "source_url" : "https://info.supervin.dk/e3t/Ctc/T6+113/chWz104/VWfn5w4yVzfDW2NdgSM2Xtk3PV7Wb0N5RyNywN861Kzv5nR3bW6N1X8z6lZ3nXN8k6g5kyQtdKW8tmcBf2D3_flW4sws7m43XvdnW4CS8lS6KcZf1W3Wf_zk1CGpjWW58vvhh3pntvYW41bqg264mkPLW1YhzZr5nFff5MpZVK7fnbY2W6w-S069bbFrvW5QnK9X2ZqmqDW4SRqnR3BFmwmW7_4G4L52SGKSW9fP13F6pJ9GsW8vf2r5296M6sW8BrpvW6YNKfCVny_tQ6dxG1XW7k1wjQ6S4fhPW8LsXLv7ynXVZW14yHKL3bGt2GW2xV1kq1Jz8nGW20ZX1Q20LxP2W2rPryr6f0yZsW6HLLfb1yt0bTW3xKthc45Vt7xW3cZ-XD5B9K7XW7vrWJr2bKLTDW7jMDjl7yRDD-W7G7qKs8jw19pW7T4Wr_3vXS6pN6MfznpHtcR1N7nLgjL6tHxPVGxypp1VY_wYW6w4dK74mX3PHW46SCSK2l43PVW1mTqwN7j5GxbW8MgWmy2fGZwtW2qYqRN6N5DgXf32jPfv04",
+      "source_time_usec" : 1784233024895705,
+      "destination_url" : "https://www.supervin.dk/tenuta-sette-ponti-crognolo-limited-edition-25th-anniversary?SNSubscribed=true&superpayuid=149eeb39-43d0-4b06-85a3-d6c21695877b&utm_campaign=Crognolo%20anni%2025th&utm_medium=email&_hsenc=p2ANqtz--9l1newNgy12XF_kNJ3QM8LT4ut7gw3avgm3NHzZ40nx63I2fHvtouCGvZcXhe2q5QNdSbjk7Zpu1RfzGE2UZwzkXsMA&_hsmi=428672779&utm_content=428672779&utm_source=hs_email",
+      "destination_time_usec" : 1784233027107322
+    },
+    {
+      "url" : "https://sport.tv2.dk/live/cykling/2026-07-17-udbryder-i-stor-triumf-pidcock-taet-paa-vingegaard-efter-kup",
+      "time_usec" : 1784349410927912,
+      "visit_count" : 2,
+      "title" : "Udbryder i stor triumf – Pidcock tæt på Vingegaard efter kup"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/tour-de-france/seneste",
+      "time_usec" : 1784349601948162,
+      "visit_count" : 1,
+      "title" : "Få seneste nyheder fra Tour de France 2026 - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2026-07-17-en-legeplads-for-angreb-pogacar-holder-oeje-med-vingegaard",
+      "time_usec" : 1784405964883624,
+      "visit_count" : 2,
+      "title" : "”En legeplads for angreb” – Pogacar holder øje med Vingegaard - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2026-07-18-eksperter-ryster-paa-hovedet-af-visma-efter-vingegaard-udtalelse",
+      "time_usec" : 1784405976249449,
+      "visit_count" : 1,
+      "title" : "Eksperter ryster på hovedet af Visma efter Vingegaard-udtalelse - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/live/cykling/2026-07-18-pogacar-vinder-igen-efter-vingegaard-offensiv",
+      "time_usec" : 1784475099439893,
+      "visit_count" : 2,
+      "title" : "Pogacar vinder igen efter Vingegaard-offensiv"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/tour-de-france/etaper",
+      "time_usec" : 1784475117841946,
+      "visit_count" : 1,
+      "title" : "Etaper i Tour de France 2026 | Se hele ruten her - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/live/cykling/2026-07-19-tour-de-france-15-etape",
+      "time_usec" : 1784475355438896,
+      "visit_count" : 1,
+      "title" : "Tour de France 15. etape"
+    },
+    {
+      "url" : "https://sport.tv2.dk/live/cykling/2026-07-19-vingegaard-styrter-og-udgaar",
+      "time_usec" : 1784476552345831,
+      "visit_count" : 2,
+      "title" : "Vingegaard styrter og udgår"
+    },
+    {
+      "url" : "https://nyheder.tv2.dk/live/krimi/2026-07-17-skyderi-i-noerresundby",
+      "time_usec" : 1784476658359665,
+      "visit_count" : 1,
+      "title" : "Skyderi i Nørresundby"
+    },
+    {
+      "url" : "https://tv2.dk/reel/2026-07-19-her-slutter-vingegaards-tour-de-france-6401561245112",
+      "time_usec" : 1784476782263391,
+      "visit_count" : 2,
+      "title" : "Her slutter Vingegaards Tour de France"
+    },
+    {
+      "url" : "https://nyheder.tv2.dk/udland/2026-06-02-en-linje-i-vm-bossens-egen-bog-skiller-sig-ud-og-saa-tog-han-opkaldet-fra-trump",
+      "time_usec" : 1784476888655558,
+      "visit_count" : 1,
+      "title" : "Én linje i VM-bossens egen bog skiller sig ud – og så tog han opkaldet fra Trump - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2026-07-19-skandaloest-stjerner-reagerer-paa-vingegaards-dopingkontrol",
+      "time_usec" : 1784477928024136,
+      "visit_count" : 2,
+      "title" : "Én linje i VM-bossens egen bog skiller sig ud – og så tog han opkaldet fra Trump - TV 2"
+    },
+    {
+      "url" : "https://www.google.com/search?q=vm+finale+2022&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784488826154739,
+      "visit_count" : 3,
+      "title" : "vm finale 2022 - Google-søgning"
+    },
+    {
+      "url" : "https://da.wikipedia.org/wiki/Verdensmesterskabet_i_fodbold_2022_-_finalen",
+      "time_usec" : 1784491097252310,
+      "visit_count" : 1,
+      "title" : "Verdensmesterskabet i fodbold 2022 - finalen - Wikipedia, den frie encyklopædi"
+    },
+    {
+      "url" : "https://sport.tv2.dk/fodbold/2022-12-18-messi-og-argentina-vinder-vm-efter-vanvittigt-drama",
+      "time_usec" : 1784528283402600,
+      "visit_count" : 2,
+      "title" : "Messi og Argentina vinder VM efter vanvittigt drama - TV 2"
+    },
+    {
+      "url" : "https://www.google.com/search?q=vm+finale+2022&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari#ebo=0",
+      "time_usec" : 1784528293587661,
+      "visit_count" : 6,
+      "title" : "vm finale 2022 - Google-søgning"
+    },
+    {
+      "url" : "https://nyheder.tv2.dk/udland/2026-02-17-magtfuld-amerikansk-milliardaer-advarer-europa-om-jordens-undergang",
+      "time_usec" : 1784528299594609,
+      "visit_count" : 3,
+      "title" : "Magtfuld amerikansk milliardær advarer Europa om jordens undergang - TV 2"
+    },
+    {
+      "url" : "https://tv2.dk/cykling/tour-de-france/reel/2026-07-19-vingegaard-giver-opdatering-efter-skuffelse-6401577273112",
+      "time_usec" : 1784528366136211,
+      "visit_count" : 1,
+      "title" : "Vingegaard giver opdatering efter skuffelse - TV 2"
+    },
+    {
+      "url" : "https://tv2.dk/reel/2026-07-19-vingegaard-giver-opdatering-efter-skuffelse-6401577273112",
+      "time_usec" : 1784528366669317,
+      "visit_count" : 1,
+      "title" : "Vingegaard giver opdatering efter skuffelse"
+    },
+    {
+      "url" : "https://www.google.com/search?q=tr%C3%A6beskyttelse+tilbud&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784537679341442,
+      "visit_count" : 4,
+      "title" : "træbeskyttelse tilbud - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=tr%C3%A6beskyttelse+tilbud&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari&zx=1784537679477",
+      "time_usec" : 1784537679478520,
+      "visit_count" : 1,
+      "title" : "træbeskyttelse tilbud - Google-søgning"
+    },
+    {
+      "url" : "https://www.jemogfix.dk/traebeskyttelse/150101/",
+      "time_usec" : 1784537751625805,
+      "visit_count" : 1,
+      "title" : "Transparent og Heldækkende Træbeskyttelse | jem & fix"
+    },
+    {
+      "url" : "https://www.jemogfix.dk/traefix-traebeskyttelse-heldaekkende-sort-2-5-l/6100/9037802/",
+      "time_usec" : 1784537894408900,
+      "visit_count" : 1,
+      "title" : "Transparent og Heldækkende Træbeskyttelse | jem & fix"
+    },
+    {
+      "url" : "https://www.jemogfix.dk/woodlife-superdaek-sort-traebeskyttelse-5-liter/6102/9085053/",
+      "time_usec" : 1784537940296238,
+      "visit_count" : 1,
+      "title" : "Transparent og Heldækkende Træbeskyttelse | jem & fix"
+    },
+    {
+      "url" : "https://www.jemogfix.dk/",
+      "time_usec" : 1784543802970953,
+      "visit_count" : 1,
+      "title" : "jem & fix lavpris byggemarked | Altid lavpris"
+    },
+    {
+      "url" : "https://www.jemogfix.dk/butikker-og-aabningstider/",
+      "time_usec" : 1784615749189836,
+      "visit_count" : 3,
+      "title" : "Transparent og Heldækkende Træbeskyttelse | jem & fix"
+    },
+    {
+      "url" : "https://www.google.com/search?q=thansen+nyk%C3%B8bing&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784656444128980,
+      "visit_count" : 6,
+      "title" : "thansen nykøbing - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=d%C3%B8rstopper+udend%C3%B8rs&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784656457940734,
+      "visit_count" : 4,
+      "title" : "dørstopper udendørs - Google-søgning"
+    },
+    {
+      "url" : "https://www.magnetz.dk/products/magnetisk-doerstopper-udendoers",
+      "time_usec" : 1784656692734563,
+      "visit_count" : 1,
+      "title" : "Magnetisk dørstopper udendørs | Smart dørstoppersæt"
+    },
+    {
+      "url" : "https://www.harald-nyborg.dk/boligen/boligtilbehoer/doerstoppere?srsltid=AfmBOopIQECekEMvwU4wUmdyS3PQJWu11Q6SY71apsLmHQN0J-dddQjC",
+      "time_usec" : 1784656817418058,
+      "visit_count" : 2,
+      "title" : "Køb dørstopper og kile til gulv og væg her"
+    },
+    {
+      "url" : "https://www.harald-nyborg.dk/jasa-company-doerstopper-rustfri-oe22-x-h-75-mm",
+      "time_usec" : 1784656844882019,
+      "visit_count" : 1,
+      "title" : "Jasa company Dørstopper rustfri Ø22 x H. 75 mm"
+    },
+    {
+      "url" : "https://www.harald-nyborg.dk/jasa-company-doerstopper-rustfri-oe19-x-h-75-mm",
+      "time_usec" : 1784706047410297,
+      "visit_count" : 4,
+      "title" : "Jasa company Dørstopper rustfri Ø19 x H. 75 mm"
+    },
+    {
+      "url" : "https://www.google.com/search?q=nyk%C3%B8bing+F+ret&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784706059025236,
+      "visit_count" : 3,
+      "title" : "nykøbing F ret - Google-søgning"
+    },
+    {
+      "url" : "https://domstoldk.euwest01.umbraco.io/nykoebingfalster/",
+      "time_usec" : 1784706063004860,
+      "visit_count" : 1,
+      "title" : "Retten i Nykøbing F."
+    },
+    {
+      "url" : "https://www.jemogfix.dk/gori-612-daekkende-traebeskyttelse-kulsort-5-liter/6102/9049914/",
+      "time_usec" : 1784823085313635,
+      "visit_count" : 6,
+      "title" : "GORI 612 dækkende træbeskyttelse kulsort 5 liter | jem & fix"
+    },
+    {
+      "url" : "https://www.google.com/search?q=carbonara+opskrift&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784823092056114,
+      "visit_count" : 3,
+      "title" : "carbonara opskrift - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=kirken+p%C3%A5+alpe+d%22huez&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784904480899168,
+      "visit_count" : 3,
+      "title" : "kirken på alpe d\"huez - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=kirken+p%C3%A5+alpe+d%22huez&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari&zx=1784904486966#lfId=ChxjMe",
+      "time_usec" : 1784904495988154,
+      "visit_count" : 2,
+      "title" : "kirken på alpe d\"huez - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=kirken+p%C3%A5+alpe+d%22huez&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari&zx=1784904486966#sbfbu=1&pi=kirken%20p%C3%A5%20alpe%20d%22huez",
+      "time_usec" : 1784904510324685,
+      "visit_count" : 1,
+      "title" : "kirken på alpe d\"huez - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=kirken+p%C3%A5+alpe+d%22huez&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari&zx=1784904486966",
+      "time_usec" : 1784904522522516,
+      "visit_count" : 3,
+      "title" : "kirken på alpe d\"huez - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=kirken+p%C3%A5+alpe+d%22huez+sving+16&client=safari&hs=ikJq&sca_esv=e2e7e970ec257fb4&hl=da-dk&ei=HXtjav__MZ_CwPAPp8j7gA8&biw=390&bih=753&oq=kirken+p%C3%A5+alpe+d%22huez+sving+16&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIh9raXJrZW4gcMOlIGFscGUgZCJodWV6IHN2aW5nIDE2MgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABMgUQABjvBUj6XlCzMlilWHACeAGQAQCYAdQBoAHlC6oBBTAuOC4xuAEDyAEA-AEBmAILoAKgDMICChAAGEcY1gQYsAPCAggQABiABBiiBJgDAIgGAZAGCJIHBTIuNy4yoAfzILIHBTAuNy4yuAeSDMIHBzAuMS44LjLIBzeACAE&sclient=mobile-gws-wiz-serp",
+      "time_usec" : 1784904523692864,
+      "visit_count" : 3,
+      "title" : "kirken på alpe d\"huez sving 16 - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=kirken+p%C3%A5+alpe+d%22huez+sving+16&client=safari&hs=ikJq&sca_esv=e2e7e970ec257fb4&hl=da-dk&ei=HXtjav__MZ_CwPAPp8j7gA8&biw=390&bih=753&oq=kirken+p%C3%A5+alpe+d%22huez+sving+16&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIh9raXJrZW4gcMOlIGFscGUgZCJodWV6IHN2aW5nIDE2MgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABMgUQABjvBUj6XlCzMlilWHACeAGQAQCYAdQBoAHlC6oBBTAuOC4xuAEDyAEA-AEBmAILoAKgDMICChAAGEcY1gQYsAPCAggQABiABBiiBJgDAIgGAZAGCJIHBTIuNy4yoAfzILIHBTAuNy4yuAeSDMIHBzAuMS44LjLIBzeACAE&sclient=mobile-gws-wiz-serp#lfId=ChxjMe",
+      "time_usec" : 1784910429626591,
+      "visit_count" : 5,
+      "title" : "kirken på alpe d\"huez sving 16 - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=theo&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784933810428243,
+      "visit_count" : 8,
+      "title" : "theo - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=amstrong&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784933818046587,
+      "visit_count" : 3,
+      "title" : "amstrong - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=amstrong+lance&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1784933846731720,
+      "visit_count" : 3,
+      "title" : "amstrong lance - Google-søgning"
+    },
+    {
+      "url" : "https://domstoldk.euwest01.umbraco.io/nykoebingfalster/praktiske-forhold/",
+      "time_usec" : 1784933907344733,
+      "visit_count" : 4,
+      "title" : "Retten i Nykøbing Falster - Praktiske forhold"
+    },
+    {
+      "url" : "https://www.arla.dk/opskrifter/spaghetti-carbonara/",
+      "time_usec" : 1784934710849128,
+      "visit_count" : 2,
+      "title" : "Spaghetti carbonara – klassisk italiensk pasta | Arla"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2025-10-28-16-etape-tour-de-france-2026",
+      "time_usec" : 1784934712333602,
+      "visit_count" : 3,
+      "title" : "Optakt | 16. etape | Tour de France 2026 - TV 2"
+    },
+    {
+      "url" : "https://info.supervin.dk/e3t/Ctc/T6+113/chWz104/VVqH6q5Mg2NKW6sBWm_50TbkGW4125np5RNL-pN7gG7-F5nR3bW5BWr2F6lZ3nyW33Ydtr1yLBZhW3h3_c28k5yrLW3g4nXp2-lMd_W1xyqm921W037N5DwMSh6LHGMVsJ-gZ2hT9yrW7h7JR96pGQm0W43HQqc4yj3cyW62JHP-3kTRmGW5sfQ4h8zk575W5rqjLw8rsvjyW61wGTY5FPLj9W7YkN0m7QRjzrW2YNWsv4PSf-LN7QLTLHdh7qVW5FcHWv5NrWCyW6pfmts5HwT28F7SXrpx-F8FW49P4Tp2P53GSN2CTqnF1f3kbW1pnhC52FzCCyW876Dnm8PL4xHW6FTPnf4GHb9cW8BPXgH2rt4V1W5tJtKt8kJ4q_N1bzQwKfwnGCVNHMYM7y4V3fN8ZTRzxnpHcPW77lNb83Jm3fFW6WfHqc8LJjzlW9fz4qY804bKYW6qbVDL5KKNg-W43BxZl69-QtbN1lRJ0b4mMf9f7QdZkg04",
+      "time_usec" : 1784995140667340,
+      "visit_count" : 1,
+      "destination_url" : "https://info.supervin.dk/events/public/v1/encoded/track/tc/T6+113/chWz104/VVqH6q5Mg2NKW6sBWm_50TbkGW4125np5RNL-pN7gG7-F5nR3bW5BWr2F6lZ3nyW33Ydtr1yLBZhW3h3_c28k5yrLW3g4nXp2-lMd_W1xyqm921W037N5DwMSh6LHGMVsJ-gZ2hT9yrW7h7JR96pGQm0W43HQqc4yj3cyW62JHP-3kTRmGW5sfQ4h8zk575W5rqjLw8rsvjyW61wGTY5FPLj9W7YkN0m7QRjzrW2YNWsv4PSf-LN7QLTLHdh7qVW5FcHWv5NrWCyW6pfmts5HwT28F7SXrpx-F8FW49P4Tp2P53GSN2CTqnF1f3kbW1pnhC52FzCCyW876Dnm8PL4xHW6FTPnf4GHb9cW8BPXgH2rt4V1W5tJtKt8kJ4q_N1bzQwKfwnGCVNHMYM7y4V3fN8ZTRzxnpHcPW77lNb83Jm3fFW6WfHqc8LJjzlW9fz4qY804bKYW6qbVDL5KKNg-W43BxZl69-QtbN1lRJ0b4mMf9f7QdZkg04?_ud=d4366a74-96e0-425a-9dbf-15da5c4ce42e&_jss=1&_fl=14&_pl=5&_hc=4&_lg=da-DK&_plt=iPhone&_scr=390,844",
+      "destination_time_usec" : 1784995142441903
+    },
+    {
+      "url" : "https://info.supervin.dk/events/public/v1/encoded/track/tc/T6+113/chWz104/VVqH6q5Mg2NKW6sBWm_50TbkGW4125np5RNL-pN7gG7-F5nR3bW5BWr2F6lZ3nyW33Ydtr1yLBZhW3h3_c28k5yrLW3g4nXp2-lMd_W1xyqm921W037N5DwMSh6LHGMVsJ-gZ2hT9yrW7h7JR96pGQm0W43HQqc4yj3cyW62JHP-3kTRmGW5sfQ4h8zk575W5rqjLw8rsvjyW61wGTY5FPLj9W7YkN0m7QRjzrW2YNWsv4PSf-LN7QLTLHdh7qVW5FcHWv5NrWCyW6pfmts5HwT28F7SXrpx-F8FW49P4Tp2P53GSN2CTqnF1f3kbW1pnhC52FzCCyW876Dnm8PL4xHW6FTPnf4GHb9cW8BPXgH2rt4V1W5tJtKt8kJ4q_N1bzQwKfwnGCVNHMYM7y4V3fN8ZTRzxnpHcPW77lNb83Jm3fFW6WfHqc8LJjzlW9fz4qY804bKYW6qbVDL5KKNg-W43BxZl69-QtbN1lRJ0b4mMf9f7QdZkg04?_ud=d4366a74-96e0-425a-9dbf-15da5c4ce42e&_jss=1&_fl=14&_pl=5&_hc=4&_lg=da-DK&_plt=iPhone&_scr=390,844",
+      "time_usec" : 1784995142441903,
+      "visit_count" : 1,
+      "source_url" : "https://info.supervin.dk/e3t/Ctc/T6+113/chWz104/VVqH6q5Mg2NKW6sBWm_50TbkGW4125np5RNL-pN7gG7-F5nR3bW5BWr2F6lZ3nyW33Ydtr1yLBZhW3h3_c28k5yrLW3g4nXp2-lMd_W1xyqm921W037N5DwMSh6LHGMVsJ-gZ2hT9yrW7h7JR96pGQm0W43HQqc4yj3cyW62JHP-3kTRmGW5sfQ4h8zk575W5rqjLw8rsvjyW61wGTY5FPLj9W7YkN0m7QRjzrW2YNWsv4PSf-LN7QLTLHdh7qVW5FcHWv5NrWCyW6pfmts5HwT28F7SXrpx-F8FW49P4Tp2P53GSN2CTqnF1f3kbW1pnhC52FzCCyW876Dnm8PL4xHW6FTPnf4GHb9cW8BPXgH2rt4V1W5tJtKt8kJ4q_N1bzQwKfwnGCVNHMYM7y4V3fN8ZTRzxnpHcPW77lNb83Jm3fFW6WfHqc8LJjzlW9fz4qY804bKYW6qbVDL5KKNg-W43BxZl69-QtbN1lRJ0b4mMf9f7QdZkg04",
+      "source_time_usec" : 1784995140667340,
+      "destination_url" : "https://www.supervin.dk/les-hauts-de-pradel-pomerol-2023?SNSubscribed=true&superpayuid=149eeb39-43d0-4b06-85a3-d6c21695877b&utm_campaign=9060902-Pomerol%20Pradel&utm_medium=email&_hsenc=p2ANqtz--5YlF1R54b3k97oYkQUbP5MGJf8QtLdT5HOhwp3OJ6fcXZNAB_b-x4PpDRKqGisWoSSFogFnJS-K_FAamsEykV98U3cQ&_hsmi=429526193&utm_content=429526193&utm_source=hs_email",
+      "destination_time_usec" : 1784995142441976
+    },
+    {
+      "url" : "https://www.supervin.dk/les-hauts-de-pradel-pomerol-2023?SNSubscribed=true&superpayuid=149eeb39-43d0-4b06-85a3-d6c21695877b&utm_campaign=9060902-Pomerol%20Pradel&utm_medium=email&_hsenc=p2ANqtz--5YlF1R54b3k97oYkQUbP5MGJf8QtLdT5HOhwp3OJ6fcXZNAB_b-x4PpDRKqGisWoSSFogFnJS-K_FAamsEykV98U3cQ&_hsmi=429526193&utm_content=429526193&utm_source=hs_email",
+      "time_usec" : 1784998061599274,
+      "visit_count" : 4,
+      "title" : "Køb Les Hauts de Pradel Pomerol 2023 | Supervin"
+    },
+    {
+      "url" : "https://forzafootball.com/da/spille/vm-betting-sider",
+      "time_usec" : 1785003418186799,
+      "visit_count" : 1,
+      "title" : "Bedste VM-væddemålssider i Danmark i 2026 | Testet og pålideligt"
+    },
+    {
+      "url" : "https://www.supervin.dk/tenuta-sette-ponti-crognolo-limited-edition-25th-anniversary?SNSubscribed=true&superpayuid=149eeb39-43d0-4b06-85a3-d6c21695877b&utm_campaign=Crognolo%20anni%2025th&utm_medium=email&_hsenc=p2ANqtz--9l1newNgy12XF_kNJ3QM8LT4ut7gw3avgm3NHzZ40nx63I2fHvtouCGvZcXhe2q5QNdSbjk7Zpu1RfzGE2UZwzkXsMA&_hsmi=428672779&utm_content=428672779&utm_source=hs_email",
+      "time_usec" : 1785003421642752,
+      "visit_count" : 9,
+      "title" : "Køb Tenuta Sette Ponti Crognolo Limited Edition 25th Anniversary | Supervin"
+    },
+    {
+      "url" : "https://www.google.com/search?q=sj%C3%A6lland+rundt+2026+cykel&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari#lfId=ChxjMe",
+      "time_usec" : 1785013705436339,
+      "visit_count" : 2,
+      "title" : "sjælland rundt 2026 cykel - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=sj%C3%A6lland+rundt+2026+cykel&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1785013810214131,
+      "visit_count" : 4,
+      "title" : "sjælland rundt 2026 cykel - Google-søgning"
+    },
+    {
+      "url" : "https://braunsteinseries.dk/sjaelland-rundt/",
+      "time_usec" : 1785013860931944,
+      "visit_count" : 1,
+      "title" : "Sjælland rundt – Braunstein Series"
+    },
+    {
+      "url" : "https://www.google.com/search?client=safari&hs=nYz&sca_esv=7864040fad96f78b&hl=da-dk&q=Motionscykell%C3%B8b+2026+Sj%C3%A6lland&sa=X&ved=2ahUKEwjLkeqT3u6VAxWPGRAIHRqoMr8Q1QJ6BAhhEAE&biw=390&bih=753&dpr=3#sbfbu=1&pi=Motionscykell%C3%B8b%202026%20Sj%C3%A6lland",
+      "time_usec" : 1785013949442699,
+      "visit_count" : 1,
+      "title" : "Motionscykelløb 2026 Sjælland - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?client=safari&hs=nYz&sca_esv=7864040fad96f78b&hl=da-dk&q=Motionscykell%C3%B8b+2026+Sj%C3%A6lland&sa=X&ved=2ahUKEwjLkeqT3u6VAxWPGRAIHRqoMr8Q1QJ6BAhhEAE&biw=390&bih=753&dpr=3",
+      "time_usec" : 1785013964026460,
+      "visit_count" : 4,
+      "title" : "Motionscykelløb 2026 Sjælland - Google-søgning"
+    },
+    {
+      "url" : "https://www.kogesportevent.dk/",
+      "time_usec" : 1785013989574076,
+      "visit_count" : 2,
+      "title" : "Kan ikke åbne side",
+      "latest_visit_was_load_failure" : true
+    },
+    {
+      "url" : "http://www.kcrv.dk/",
+      "time_usec" : 1785014017022189,
+      "visit_count" : 1,
+      "destination_url" : "https://kcrv.dk/",
+      "destination_time_usec" : 1785014017023205
+    },
+    {
+      "url" : "https://kcrv.dk/",
+      "time_usec" : 1785014017023205,
+      "visit_count" : 1,
+      "title" : "KCRV - Rundt omkring",
+      "source_url" : "http://www.kcrv.dk/",
+      "source_time_usec" : 1785014017022189
+    },
+    {
+      "url" : "https://www.visitkoege.dk/koege/oplevelser/oplev-naturen-omkring-koege",
+      "time_usec" : 1785014130385470,
+      "visit_count" : 2,
+      "title" : "Oplev naturen omkring Køge | Køge har skøn natur med mange gode vandre- og cykelmuligheder | VisitKøge"
+    },
+    {
+      "url" : "https://www.visitkoege.dk/oplevelser",
+      "time_usec" : 1785014163420961,
+      "visit_count" : 5,
+      "title" : "Sjælland Rundt på Cykel - Køge"
+    },
+    {
+      "url" : "https://www.visitkoege.dk/koege/planlaeg-din-tur/sjaelland-rundt-paa-cykel-koege-gdk619884",
+      "time_usec" : 1785014164268583,
+      "visit_count" : 6,
+      "title" : "Sjælland Rundt på Cykel - Køge"
+    },
+    {
+      "url" : "https://www.google.com/search?q=sj%C3%A6lland+rundt+2026+cykel&client=safari&hs=TteV&sca_esv=7864040fad96f78b&hl=da-dk&biw=390&bih=645&ei=QyZlavXgKNbawPAPvoHGkQk&oq=sj%C3%A6ll&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgZzasOmbGwqAggBMgoQABiABBiKBRhDMgoQABiABBiKBRhDMg0QLhiABBiKBRhDGLEDMgUQABiABDILEAAYgAQYsQMYgwEyBRAAGIAEMgUQABiABDIKEAAYgAQYigUYQ0i8cVCMNViKRHACeACQAQGYAUSgAfQCqgEBNrgBAcgBAPgBAZgCB6AC6QKoAgDCAgoQABhHGNYEGLADwgIXEC4Y3AYYuAYY2gYY2AIYyAMYsAPYAQHCAgsQLhiDARixAxiABMICDhAuGIAEGIoFGLEDGIMBwgIWEC4YgAQYigUYQxixAxiDARjHARivAcICEBAuGEMYxwEY0QMYgAQYigXCAhEQLhiABBiKBRiNBhixAxiDAcICCBAAGIAEGLEDmAMAiAYBkAYNugYECAEYGZIHATegB-I2sgcBNbgH0wLCBwUyLTYuMcgHM4AIAQ&sclient=mobile-gws-wiz-serp",
+      "time_usec" : 1785014165505598,
+      "visit_count" : 6,
+      "title" : "sjælland rundt 2026 cykel - Google-søgning"
+    },
+    {
+      "url" : "https://motionscykellob.dk/index.php?side=2&Maaned=&Region=&Landevej_Mtb=",
+      "time_usec" : 1785014369808258,
+      "visit_count" : 1,
+      "title" : "MOTIONSCYKELLØB 2026"
+    },
+    {
+      "url" : "https://motionscykellob.dk/sog/",
+      "time_usec" : 1785014421266798,
+      "visit_count" : 1,
+      "title" : "MOTIONSCYKELLØB 2026",
+      "latest_visit_was_load_failure" : true
+    },
+    {
+      "url" : "https://motionscykellob.dk/",
+      "time_usec" : 1785014432288692,
+      "visit_count" : 2,
+      "title" : "MOTIONSCYKELLØB 2026"
+    },
+    {
+      "url" : "https://motionscykellob.dk/max_antal/",
+      "time_usec" : 1785014466377506,
+      "visit_count" : 1,
+      "title" : "MOTIONSCYKELLØB 2026",
+      "latest_visit_was_load_failure" : true
+    },
+    {
+      "url" : "https://www.lokaltog.dk/trafikinformation/koereplaner/510r-odsherredsbanen/events/events/sjaelland-rundt-paa-cykel-koege",
+      "time_usec" : 1785014486544952,
+      "visit_count" : 1,
+      "title" : "Sjælland Rundt på Cykel - Køge"
+    },
+    {
+      "url" : "https://www.google.com/search?q=sj%C3%A6lland+rundt+2027+cykel&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari#lfId=ChxjMe",
+      "time_usec" : 1785014564229024,
+      "visit_count" : 2,
+      "title" : "sjælland rundt 2027 cykel - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=sj%C3%A6lland+rundt+2027+cykel&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1785014966818335,
+      "visit_count" : 7,
+      "title" : "sjælland rundt 2027 cykel - Google-søgning"
+    },
+    {
+      "url" : "http://www.tv2.dk/",
+      "time_usec" : 1785014987337066,
+      "visit_count" : 1,
+      "destination_url" : "https://tv2.dk/",
+      "destination_time_usec" : 1785014987337214
+    },
+    {
+      "url" : "https://sport.tv2.dk/live/cykling/2026-07-25-visma-stjerne-styrter-to-gange-og-misser-etapesejr",
+      "time_usec" : 1785015050495191,
+      "visit_count" : 1,
+      "title" : "Visma-stjerne styrter to gange og misser etapesejr"
+    },
+    {
+      "url" : "https://sport.tv2.dk/live/cykling/2026-07-25-visma-stjerne-styrter-to-gange-og-misser-etapesejr/visma-stjerne-faar-straf-efter-mareridtsdag?entry=cb27f713-bab8-4a8f-a78f-99b01726f84c",
+      "time_usec" : 1785015067867159,
+      "visit_count" : 1,
+      "title" : "Visma-stjerne får straf efter mareridtsdag"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2026-07-25-det-er-uvaerdigt-pogacars-koersel-deler-vandene",
+      "time_usec" : 1785015120672494,
+      "visit_count" : 1,
+      "title" : "\"Det er uværdigt\" – Pogacars kørsel deler vandene - TV 2"
+    },
+    {
+      "url" : "https://www.google.com/search?q=n%C3%A5r+humanfysiologen&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari#sbfbu=1&pi=n%C3%A5r%20humanfysiologi",
+      "time_usec" : 1785015581288135,
+      "visit_count" : 1,
+      "title" : "når humanfysiologi - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=n%C3%A5r+humanfysiologen&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1785015588374906,
+      "visit_count" : 6,
+      "title" : "når humanfysiologi - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=n%C3%A5r+humanfysiologi+berlingske&client=safari&hs=IZz&sca_esv=7864040fad96f78b&hl=da-dk&ei=GC1laualB7uF1fIP1fzU0AY&biw=390&bih=645&oq=n%C3%A5r+humanfysiologi+berlingske&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIh5uw6VyIGh1bWFuZnlzaW9sb2dpIGJlcmxpbmdza2UyBRAhGKABSKA3UNwLWOgtcAB4BJABAJgBpAGgAYQHqgEEMTAuMbgBA8gBAPgBAZgCDqACvQfCAgQQABhHwgIFECEYnwXCAgcQIRgKGKABmAMA4gMFEgExIECIBgGQBgiSBwQxMy4xoAeLHbIHBDEwLjG4B68HwgcHMC40LjkuMcgHN4AIAQ&sclient=mobile-gws-wiz-serp#sbfbu=1&pi=n%C3%A5r%20humanfysiologi%20berlingske",
+      "time_usec" : 1785015645023940,
+      "visit_count" : 1,
+      "title" : "når humanfysiologi berlingske - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=n%C3%A5r+humanfysiologi+berlingske&client=safari&hs=IZz&sca_esv=7864040fad96f78b&hl=da-dk&ei=GC1laualB7uF1fIP1fzU0AY&biw=390&bih=645&oq=n%C3%A5r+humanfysiologi+berlingske&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIh5uw6VyIGh1bWFuZnlzaW9sb2dpIGJlcmxpbmdza2UyBRAhGKABSKA3UNwLWOgtcAB4BJABAJgBpAGgAYQHqgEEMTAuMbgBA8gBAPgBAZgCDqACvQfCAgQQABhHwgIFECEYnwXCAgcQIRgKGKABmAMA4gMFEgExIECIBgGQBgiSBwQxMy4xoAeLHbIHBDEwLjG4B68HwgcHMC40LjkuMcgHN4AIAQ&sclient=mobile-gws-wiz-serp",
+      "time_usec" : 1785015677062502,
+      "visit_count" : 4,
+      "title" : "når humanfysiologi berlingske - Google-søgning"
+    },
+    {
+      "url" : "https://www.berlingske.dk/indland/naar-humanfysiologen-ser-paa-pogacar-fattes-han-ord-hvordan-kan-han-det?gaa_at=eafs&gaa_n=AVngi4j9CLUDHVSz6bVQ8nX4ucU5AHitEiQjM8qoGIDS74ybQ-SXzCzUB1Zf&gaa_ts=6a653101&gaa_sig=ncbuQJiWM9k9fTlnx2J7dDlTPA_u3SVjEZrAIqQWF4BdPHHt_9hXdAFY61nKCStQpPK0mojTVxtjoRBlx0FglA%3D%3D",
+      "time_usec" : 1785015691369930,
+      "visit_count" : 2,
+      "title" : "Når humanfysiologen ser på Pogacar, fattes han ord: »Hvordan kan han det?« | Indland | Samfund | Berlingske"
+    },
+    {
+      "url" : "https://www.google.com/search?q=n%C3%A5r+humanfysiologen+ser+p%C3%A5+Pocarga+fattes+gan+ord+berlingske&client=safari&hs=IZz&sca_esv=7864040fad96f78b&hl=da-dk&biw=390&bih=644&ei=JC1lasGAHI7xwPAP6dWYoAY&oq=n%C3%A5r+humanfysiologen+ser+p%C3%A5+Pocarga+fattes+gan+ord+berlingske&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIj5uw6VyIGh1bWFuZnlzaW9sb2dlbiBzZXIgcMOlIFBvY2FyZ2EgZmF0dGVzIGdhbiBvcmQgYmVybGluZ3NrZTIFEAAY7wUyBRAAGO8FMgUQABjvBTIIEAAYiQUYogQyCBAAGIAEGKIESJX6AVC7Slio7QFwA3gBkAEAmAHZAaABqByqAQcyMS4xMS4yuAEDyAEA-AEBmAIjoAKzHMICChAAGEcY1gQYsAPCAhcQLhjcBhi4BhjaBhjYAhjIAxiwA9gBAcICBBAhGAqYAwCIBgGQBgu6BgQIARgZkgcHMjMuMTAuMqAH_nmyBwcyMS4xMC4yuAegHMIHCDAuMy4zMS4xyAeTAYAIAQ&sclient=mobile-gws-wiz-serp#lfId=ChxjMe",
+      "time_usec" : 1785015708767379,
+      "visit_count" : 2,
+      "title" : "når humanfysiologen ser på Pocarga fattes gan ord berlingske - Google-søgning"
+    },
+    {
+      "url" : "https://www.berlingske.dk/indland/naar-humanfysiologen-ser-paa-pogacar-fattes-han-ord-hvordan-kan-han-det",
+      "time_usec" : 1785015714928546,
+      "visit_count" : 2,
+      "title" : "Når humanfysiologen ser på Pogacar, fattes han ord: »Hvordan kan han det?« | Indland | Samfund | Berlingske"
+    },
+    {
+      "url" : "https://www.google.com/search?q=n%C3%A5r+humanfysiologen+ser+p%C3%A5+Pocarga+fattes+gan+ord+berlingske&client=safari&hs=IZz&sca_esv=7864040fad96f78b&hl=da-dk&biw=390&bih=644&ei=JC1lasGAHI7xwPAP6dWYoAY&oq=n%C3%A5r+humanfysiologen+ser+p%C3%A5+Pocarga+fattes+gan+ord+berlingske&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIj5uw6VyIGh1bWFuZnlzaW9sb2dlbiBzZXIgcMOlIFBvY2FyZ2EgZmF0dGVzIGdhbiBvcmQgYmVybGluZ3NrZTIFEAAY7wUyBRAAGO8FMgUQABjvBTIIEAAYiQUYogQyCBAAGIAEGKIESJX6AVC7Slio7QFwA3gBkAEAmAHZAaABqByqAQcyMS4xMS4yuAEDyAEA-AEBmAIjoAKzHMICChAAGEcY1gQYsAPCAhcQLhjcBhi4BhjaBhjYAhjIAxiwA9gBAcICBBAhGAqYAwCIBgGQBgu6BgQIARgZkgcHMjMuMTAuMqAH_nmyBwcyMS4xMC4yuAegHMIHCDAuMy4zMS4xyAeTAYAIAQ&sclient=mobile-gws-wiz-serp",
+      "time_usec" : 1785015739274814,
+      "visit_count" : 4,
+      "title" : "når humanfysiologen ser på Pocarga fattes gan ord berlingske - Google-søgning"
+    },
+    {
+      "url" : "https://www.berlingske.dk/indland/jeg-er-overbevist-om-at-det-her-kan-fungere-sagde-sportsdirektoeren-men-det-har-han-muligvis-fortrudt-det-er-en-farce?gaa_at=eafs&gaa_n=AVngi4gjtu1AcUFR7oyDp8OlHZc7dtDJXF8mVjkqZBrBAIysoTApmbuCliQu&gaa_ts=6a653101&gaa_sig=cz9KS4DcJvoQE21jH89HLvdaYdHFk5lpogk_ZjuHyDIGEDJK7uigsslvy2PQCuqiCKnQZxIj_FP1UTxmwx15nQ%3D%3D",
+      "time_usec" : 1785015786396189,
+      "visit_count" : 2,
+      "title" : "»Jeg er overbevist om, at det her kan fungere,« sagde sportsdirektøren, men det har han muligvis fortrudt: »Det er en farce« | Indland | Samfund | Berlingske"
+    },
+    {
+      "url" : "https://www.google.com/search?q=er+pogacar+dopet&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari#lfId=ChxjMe",
+      "time_usec" : 1785015846805591,
+      "visit_count" : 2,
+      "title" : "er pogacar dopet - Google-søgning"
+    },
+    {
+      "url" : "https://www.feltet.dk/landevej/internettet-anklager-pogacar-forsker-afkraefter/11232441",
+      "time_usec" : 1785015885326817,
+      "visit_count" : 2,
+      "title" : "Internettet anklager Pogacar: Forsker afkræfter | Feltet.dk"
+    },
+    {
+      "url" : "https://www.google.com/search?q=er+pogacar+dopet&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1785048751187742,
+      "visit_count" : 7,
+      "title" : "er pogacar dopet - Google-søgning"
+    },
+    {
+      "url" : "https://www.eurosport.dk/cykling/tour-de-france/2026/tour-de-france-2026-dommer-godkendte-dopingkontroller-af-pogacar-og-vingegaard_sto23321335/story.shtml",
+      "time_usec" : 1785048900867688,
+      "visit_count" : 3,
+      "title" : "Tour de France 2026: Dommer godkendte dopingkontroller af Pogačar og Vingegaard - Eurosport"
+    },
+    {
+      "url" : "https://tv2.dk/",
+      "time_usec" : 1785049112601458,
+      "visit_count" : 3,
+      "title" : "TV 2 - Bedst på breaking og live - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/live/fodbold/2026-07-25-broendby-smider-sejren-efter-profils-dumhed",
+      "time_usec" : 1785049243471160,
+      "visit_count" : 1,
+      "title" : "Brøndby smider sejren efter profils dumhed"
+    },
+    {
+      "url" : "https://sport.tv2.dk/live/fodbold/2024-12-19-brentford-henter-liverpool-keeper",
+      "time_usec" : 1785049331501569,
+      "visit_count" : 1,
+      "title" : "Fodbold i dag | Seneste nyt fra fodboldens verden"
+    },
+    {
+      "url" : "https://vejr.tv2.dk/",
+      "time_usec" : 1785049381830495,
+      "visit_count" : 1,
+      "title" : "TV 2 Vejr | Se vejret i dag, i morgen og 7 dage frem - TV 2"
+    },
+    {
+      "url" : "https://vejr.tv2.dk/vejr/idestrup-2619439",
+      "time_usec" : 1785049393563278,
+      "visit_count" : 1,
+      "title" : "Vejret Idestrup | I dag, i morgen, 7 dage frem - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/",
+      "time_usec" : 1785049442230239,
+      "visit_count" : 3,
+      "title" : "TV 2 Sport | Få sidste nyt fra sportens verden - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2026-07-25-touren-forsvarer-bekymrende-udvikling-paa-alpe-dhuez",
+      "time_usec" : 1785049472626899,
+      "visit_count" : 1,
+      "title" : "Touren forsvarer bekymrende udvikling på Alpe d'Huez - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/profil/emil-mielke-vinjebo",
+      "time_usec" : 1785049642193125,
+      "visit_count" : 1,
+      "title" : "Emil Mielke Vinjebo | Cykelekspert - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2026-07-17-nyt-produkt-bruges-eksklusivt-af-uae-det-er-banebrydende",
+      "time_usec" : 1785049816024907,
+      "visit_count" : 1,
+      "title" : "Nyt produkt bruges eksklusivt af UAE: - Det er banebrydende - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2026-07-21-dopingtestere-sender-klart-signal-siger-holdchef",
+      "time_usec" : 1785050034307104,
+      "visit_count" : 1,
+      "title" : "Dopingtestere sender klart signal, siger holdchef - TV 2"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/2026-07-21-evenepoel-afviser-kritik-touren-er-ikke-kedelig",
+      "time_usec" : 1785050382142713,
+      "visit_count" : 1,
+      "title" : "Evenepoel afviser kritik: Touren er ikke kedelig - TV 2"
+    },
+    {
+      "url" : "https://www.google.com/search?q=nyk%C3%B8bing+f+butikker+%C3%A5bningstider&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1785052366727066,
+      "visit_count" : 3,
+      "title" : "nykøbing f butikker åbningstider - Google-søgning"
+    },
+    {
+      "url" : "https://www.google.com/search?q=nyk%C3%B8bing+f+butikker+steen+andersen&ie=UTF-8&oe=UTF-8&hl=da-dk&client=safari",
+      "time_usec" : 1785052486653380,
+      "visit_count" : 3,
+      "title" : "nykøbing f butikker steen andersen - Google-søgning"
+    },
+    {
+      "url" : "http://steenandersen.dk/",
+      "time_usec" : 1785052537575921,
+      "visit_count" : 2,
+      "destination_url" : "https://guldsmed-kelo.dk/",
+      "destination_time_usec" : 1785052537576024
+    },
+    {
+      "url" : "https://guldsmed-kelo.dk/",
+      "time_usec" : 1785052537576024,
+      "visit_count" : 2,
+      "title" : "Velkommen - Din destination for smykker, ure og personlig service | Guldsmed Kelø & Guldsmed Steen Andersen",
+      "source_url" : "http://steenandersen.dk/",
+      "source_time_usec" : 1785052537575921
+    },
+    {
+      "url" : "https://guldsmed-kelo.dk/kontakt/",
+      "time_usec" : 1785052569753436,
+      "visit_count" : 1,
+      "title" : "Kontakt | Guldsmed Kelø & Guldsmed Steen Andersen"
+    },
+    {
+      "url" : "https://sport.tv2.dk/cykling/tour-de-france",
+      "time_usec" : 1785095745130968,
+      "visit_count" : 8,
+      "title" : "Tour de France 2026 | Få seneste nyt her - TV 2"
+    },
+    {
+      "url" : "https://www.holdet.dk/da/fantasy/tour-de-france-manager-2026",
+      "time_usec" : 1785216786525567,
+      "visit_count" : 49,
+      "title" : "Tour Manager 2026 - Tour de France managerspil uden udskiftninger mellem etaperne | Holdet.dk"
+    },
+    {
+      "url" : "http://www.bold.dk/",
+      "time_usec" : 1786645117202454,
+      "visit_count" : 1,
+      "destination_url" : "https://bold.dk/",
+      "destination_time_usec" : 1786645117202633
+    },
+    {
+      "url" : "https://bold.dk/",
+      "time_usec" : 1786645321283411,
+      "visit_count" : 6,
+      "title" : "Fodbold, nyheder, livescore, resultater og tabeller | Bold"
+    }
+  ]
+}
