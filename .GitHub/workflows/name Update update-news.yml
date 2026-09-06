@@ -1,0 +1,40 @@
+name: Update News
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser
+          pip install requests
+          pip install beautifulsoup4
+
+      - name: Run News Script
+        run: |
+          python "Awareness/Personalized Football News/Script/Script_News/generate_news.py"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+
+          git diff --cached --quiet || \
+          git commit -m "Auto update news"
+
+      - name: Push changes
+        run: git push
