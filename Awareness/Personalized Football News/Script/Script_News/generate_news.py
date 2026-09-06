@@ -3,6 +3,9 @@ import feedparser
 from datetime import datetime
 from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent
+
+
 from Get_HTML_Articles_Function import get_html_articles
 
 # ==================================================
@@ -10,17 +13,21 @@ from Get_HTML_Articles_Function import get_html_articles
 # ==================================================
 
 PROFILE_FILE = (
-    r"C:\Users\abc\OneDrive\Noah\Future Advantage\GitHub\future-advantage-demo\Awareness\Personalized Football News"
-    r"\Script\Script_Profil\football_profile.json"
+    BASE_DIR.parent /
+    "Script_Profil" /
+    "football_profile.json"
 )
 
 HTML_FILE = (
-    r"C:\Users\abc\OneDrive\Noah\Future Advantage\GitHub\future-advantage-demo\Awareness\Personalized Football News\Website\index.html"
+    BASE_DIR.parent.parent /
+    "Website" /
+    "index.html"
 )
 
 SOURCES_FILE = (
-    r"C:\Users\abc\OneDrive\Noah\Future Advantage\GitHub\future-advantage-demo\Awareness"
-    r"\Personalized Football News\\Script\Sources\sources.json"
+    BASE_DIR.parent /
+    "Sources" /
+    "sources.json"
 )
 
 

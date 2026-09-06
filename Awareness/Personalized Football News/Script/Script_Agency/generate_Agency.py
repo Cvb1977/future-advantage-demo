@@ -1,6 +1,8 @@
 
 HTML_FILE = (
-    r"C:\Users\abc\OneDrive\Noah\Future Advantage\GitHub\future-advantage-demo\Awareness\Personalized Football News\Website\IndexAgency.html"
+    BASE_DIR.parent.parent /
+        "Website" /
+        "IndexAgency.html"
 )
 
 

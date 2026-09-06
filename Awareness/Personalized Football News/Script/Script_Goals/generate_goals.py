@@ -213,7 +213,9 @@ from select_goal_links import split_country_links
 
 CSV_FILE = "Goals_Links.csv"
 OUTPUT_FILE = (
-    r"C:\Users\abc\OneDrive\Noah\Future Advantage\GitHub\future-advantage-demo\Awareness\Personalized Football News\Website\IndexGoals.html"
+    BASE_DIR.parent.parent /
+        "Website" /
+        "IndexGoals.html"
 )
 
 
