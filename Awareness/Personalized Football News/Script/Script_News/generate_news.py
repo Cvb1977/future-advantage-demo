@@ -27,7 +27,7 @@ HTML_FILE = (
 SOURCES_FILE = (
     BASE_DIR.parent /
     "Sources" /
-    "sources.json"
+    "Sources.json"
 )
 
 
