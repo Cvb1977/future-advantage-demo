@@ -18,9 +18,15 @@ PROFILE_FILE = (
     "football_profile.json"
 )
 
-HTML_FILE = (
+HTML_FILE_WEBSITE = (
     BASE_DIR.parent.parent /
     "Website" /
+    "index.html"
+)
+
+HTML_FILE_DOCS = (
+    BASE_DIR.parent.parent.parent.parent /
+    "docs" /
     "index.html"
 )
 
@@ -451,7 +457,14 @@ html += """
 """
 
 with open(
-            HTML_FILE,
+            HTML_FILE_WEBSITE,
+            "w",
+            encoding="utf-8"
+) as f:
+    f.write(html)
+
+with open(
+            HTML_FILE_DOCS,
             "w",
             encoding="utf-8"
 ) as f:
@@ -459,5 +472,6 @@ with open(
 
 print()
 print("Nyhedsside opdateret:")
-print(HTML_FILE)
+print(HTML_FILE_WEBSITE)
+print(HTML_FILE_DOCS)
 print()
