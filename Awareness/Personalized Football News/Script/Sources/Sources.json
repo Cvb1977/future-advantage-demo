@@ -1,26 +1,136 @@
 [
     {
-        "name": "sport.tv2.dk",
+        "name": "holdet.dk",
         "type": "html",
-        "url": "https://sport.tv2.dk",
+        "url": "https://holdet.dk",
+        "football_score": 25
+    },
+
+    {
+        "name": "unisport.dk",
+        "type": "html",
+        "url": "https://unisport.dk",
+        "football_score": 8
+    },
+    {
+        "name": "3f.dk",
+        "type": "html",
+        "url": "https://3f.dk",
+        "football_score": 7
+    },
+    {
+        "name": "betoro.dk",
+        "type": "html",
+        "url": "https://betoro.dk",
+        "football_score": 4
+    },
+    {
+        "name": "transfermarkt.com",
+        "type": "html",
+        "url": "https://transfermarkt.com",
+        "football_score": 4
+    },
+    {
+        "name": "fantasy.premierleague.com",
+        "type": "html",
+        "url": "https://fantasy.premierleague.com",
         "football_score": 3
+    },
+    {
+        "name": "b93.dk",
+        "type": "rss",
+        "url": "https://b93.dk",
+        "football_score": 2
+    },
+    {
+        "name": "mrgreen.dk",
+        "type": "html",
+        "url": "https://mrgreen.dk",
+        "football_score": 2
+    },
+    {
+        "name": "fantasyfootballscout.co.uk",
+        "type": "rss",
+        "url": "https://fantasyfootballscout.co.uk",
+        "football_score": 2
+    },
+    {
+        "name": "draft.premierleague.com",
+        "type": "html",
+        "url": "https://draft.premierleague.com",
+        "football_score": 2
+    },
+    {
+        "name": "manchestereveningnews.co.uk",
+        "type": "html",
+        "url": "https://manchestereveningnews.co.uk",
+        "football_score": 2
+    },
+    {
+        "name": "3point.dk",
+        "type": "html",
+        "url": "https://3point.dk",
+        "football_score": 1
+    },
+    {
+        "name": "ad.doubleclick.net",
+        "type": "html",
+        "url": "https://ad.doubleclick.net",
+        "football_score": 1
+    },
+    {
+        "name": "besoccer.com",
+        "type": "html",
+        "url": "https://besoccer.com",
+        "football_score": 1
+    },
+    {
+        "name": "fantasyfootballpundit.com",
+        "type": "html",
+        "url": "https://fantasyfootballpundit.com",
+        "football_score": 1
+    },
+    {
+        "name": "https://www.standard.co.uk/sport",
+        "type": "rss",
+        "url": "https://standard.co.uk",
+        "football_score": 1
     },
     {
         "name": "bold.dk",
         "type": "html",
         "url": "https://bold.dk",
-        "football_score": 2
-    },
-    {
-        "name": "da.wikipedia.org",
-        "type": "html",
-        "url": "https://da.wikipedia.org",
         "football_score": 1
     },
     {
-        "name": "forzafootball.com",
-        "type": "unknown",
-        "url": "https://forzafootball.com",
+        "name": "sports.yahoo.com",
+        "type": "rss",
+        "url": "https://sports.yahoo.com",
+        "football_score": 1
+    },
+    {
+        "name": "espn.com",
+        "type": "html",
+        "url": "https://espn.com",
+        "football_score": 1
+    },
+    {
+        "name": "heavy.com",
+        "type": "rss",
+        "url": "https://heavy.com",
+        "football_score": 1
+    },
+    {
+        "name": "draftfc.co.uk",
+        "type": "html",
+        "url": "https://draftfc.co.uk",
+        "football_score": 1
+    },
+    {
+        "name": "rotowire.com",
+        "type": "html",
+        "url": "https://rotowire.com",
         "football_score": 1
     }
+
 ]

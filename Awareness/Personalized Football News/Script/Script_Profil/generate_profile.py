@@ -131,6 +131,7 @@ TOPIC_WORDS = {
 }
 
 COMPETITIONS = {
+
     "superliga",
     "premier",
     "champions",
@@ -140,6 +141,48 @@ COMPETITIONS = {
     "laliga",
     "serie"
 }
+
+INTEREST_CATEGORIES = {
+    "fantasy": [
+        "manager",
+        "managerspil",
+        "fantasy",
+        "holdet",
+        "draft",
+        "fantasyfootballscout",
+        "premierleague"
+    ],
+
+    "premier_league": [
+        "premier",
+        "englands",
+        "liverpool",
+        "arsenal",
+        "chelsea",
+        "tottenham",
+        "city",
+        "united"
+    ],
+
+    "transfers": [
+        "Fabrizio Romano"
+        "transfer",
+        "transfers",
+        "transfermarkt",
+        "kontrakt",
+        "skifte"
+    ],
+
+    "football_news": [
+        "bold",
+        "tipsbladet",
+        "nyheder",
+        "fodbold",
+        "football",
+        "soccer"
+    ]
+}
+
 
 # ==================================================
 # INDLÆS HISTORIK
@@ -163,6 +206,8 @@ teams = Counter()
 competitions = Counter()
 topics = Counter()
 source_scores = Counter()
+interest_categories = Counter()
+
 
 now = datetime.now(timezone.utc)
 
@@ -217,11 +262,18 @@ for item in history_items:
 
         keywords[word] += recency_weight
 
-        if word in TOPIC_WORDS:
-            topics[word] += recency_weight
+        
+        for category, category_words in INTEREST_CATEGORIES.items():
 
-        if word in COMPETITIONS:
-            competitions[word] += recency_weight
+            if word in category_words:
+
+                interest_categories[category] += recency_weight
+
+            if word in TOPIC_WORDS:
+                topics[word] += recency_weight
+
+            if word in COMPETITIONS:
+                competitions[word] += recency_weight
 
 # ==================================================
 # UDLED KLUBBER / INTERESSER
@@ -272,7 +324,12 @@ profile = {
 
     "keywords": dict(
         keywords.most_common(50)
+    ),
+
+    "interest_categories": dict(
+        interest_categories.most_common()
     )
+
 }
 
 sources = []
@@ -339,6 +396,12 @@ print("=" * 60)
 print()
 print(f"Historiske fodboldartikler: {football_articles_found}")
 print()
+print()
+print("INTERESSEKATEGORIER")
+print()
+
+for category, score in interest_categories.most_common():
+    print(f"{category:20} {score:.2f}")
 print("TOP 10 INTERESSER")
 print()
 
