@@ -528,7 +528,7 @@ html += """
 """
 
 with open(
-            HTML_FILE,
+            HTML_FILE_DOCS,
             "w",
             encoding="utf-8"
 ) as f:
@@ -536,5 +536,6 @@ with open(
 
 print()
 print("Nyhedsside opdateret:")
-print(HTML_FILE)
+print(HTML_FILE_WEBSITE)
+print(HTML_FILE_DOCS)
 print()
