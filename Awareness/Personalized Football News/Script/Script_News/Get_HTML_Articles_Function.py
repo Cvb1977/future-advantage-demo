@@ -1,6 +1,24 @@
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 
+from urllib.parse import urlparse
+
+
+def same_source_type(source_url, href):
+
+    try:
+
+        source_page = (
+            urlparse(source_url)
+            .path
+            .split("/")[-1]
+        )
+
+        return source_page in href
+
+    except:
+        return False
 
 def get_html_articles(source_name, source_url):
 
@@ -31,11 +49,21 @@ def get_html_articles(source_name, source_url):
 
         href = a["href"]
 
+        if href.startswith("/"):
+
+            href = source_url.rstrip("/") + href
+
+        if not same_source_type(
+            source_url,
+            href
+        ):
+            continue
+
         if len(title) < 15:
             continue
 
-        if "/nyheder/" not in href:
-            continue
+        # if "/nyheder/" not in href:
+        #    continue
 
         if href.startswith("/"):
 

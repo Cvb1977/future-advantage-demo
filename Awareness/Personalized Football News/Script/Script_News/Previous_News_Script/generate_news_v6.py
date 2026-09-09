@@ -66,7 +66,6 @@ for category in [
 # HENT NYHEDER
 # ==================================================
 
-source_statistics = []
 articles = []
 
 for source in sources:
@@ -86,40 +85,10 @@ for source in sources:
 
         print("Artikler fundet:", len(feed.entries))
 
-        source_statistics.append({
-            "source": source_name,
-            "type": source_type,
-            "count": len(feed.entries)
-        })
-
         for entry in feed.entries:
-
-            print(entry.keys())
-            break
-            
 
             title = entry.get("title", "")
             link = entry.get("link", "")
-
-            age_days = 0
-
-            if "published_parsed" in entry:
-
-                published = datetime(
-                    *entry["published_parsed"][:6]
-                )
-
-            age_days = (
-                datetime.now() -
-                published
-            ).days
-
-           # recency_factor = (
-           #     1 /
-           #     (1 + age_days * 0.25)
-           # )
-
-           # score *= recency_factor
 
             text = title.lower()
 
@@ -132,16 +101,6 @@ for source in sources:
 
                     score += weight
                     matched_words.append(word)
-
-                    recency_factor * (
-                        1 /
-                        (1 + age_days * 0.2)
-                    )
-
-            score = (
-                score *
-                recency_factor
-            )
 
             articles.append({
                 "title": title,
@@ -160,18 +119,6 @@ for source in sources:
         )
 
         print("Artikler fundet:", len(html_articles))
-
-        source_statistics.append({
-            "source": source_name,
-            "type": source_type,
-            "count": len(html_articles)
-        })
-
-        print(
-           source_name,
-           "=>",
-           len(html_articles)
-)
 
         for article in html_articles:
 
@@ -224,24 +171,6 @@ articles = unique_articles
 # ==================================================
 # SORTÉR
 # ==================================================
-
-print()
-print("=" * 60)
-print("ARTIKLER PR. KILDE")
-print("=" * 60)
-
-source_statistics.sort(
-    key=lambda x: x["count"],
-    reverse=True
-)
-
-for item in source_statistics:
-
-    print(
-        f"{item['source']:<30} "
-        f"{item['type']:<5} "
-        f"{item['count']:>4}"
-    )
 
 print()
 print("Antal artikler efter dublet-fjernelse:", len(articles))
@@ -528,7 +457,14 @@ html += """
 """
 
 with open(
-            HTML_FILE,
+            HTML_FILE_WEBSITE,
+            "w",
+            encoding="utf-8"
+) as f:
+    f.write(html)
+
+with open(
+            HTML_FILE_DOCS,
             "w",
             encoding="utf-8"
 ) as f:
@@ -536,5 +472,6 @@ with open(
 
 print()
 print("Nyhedsside opdateret:")
-print(HTML_FILE)
+print(HTML_FILE_WEBSITE)
+print(HTML_FILE_DOCS)
 print()
